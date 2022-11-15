@@ -34,6 +34,8 @@ onnx模型下载：
  
 提取码：uepl
 
+项目启动后可以进入swagger进行接口使用 http://localhost:8080/swagger-ui/
+
 #### Result
 ![image](https://raw.githubusercontent.com/jiangnanboy/doc_ai/master/img/layout_result.png)
 
